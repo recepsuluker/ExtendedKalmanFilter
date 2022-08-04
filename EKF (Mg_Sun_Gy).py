@@ -1,6 +1,8 @@
 # Purpose:  Integrated test showing how to setup and run a Python BSK module 
 # Author:   Recep Suluker
 # Creation and Update Date: 5th of Aug, 2022
+# source : https://ahrs.readthedocs.io/en/latest/filters/ekf.html
+
 
 import math
 import numpy as np 
